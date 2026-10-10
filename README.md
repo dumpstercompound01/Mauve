@@ -1,4 +1,4 @@
-# 📅 Stella's Calendar Widget
+# 🪻 Stella's Calendar Widget
 
 A lightweight, pixel-art styled desktop calendar widget built with **Electron**, **HTML**, **CSS**, and **JavaScript**.
 
@@ -9,10 +9,10 @@ A lightweight, pixel-art styled desktop calendar widget built with **Electron**,
 
 ## ✨ Features
 
--  **Retro Pixel Art Style:** 
--  **Frameless & Transparent Window:** 
--  **Real-Time Calendar:**
--  **Draggable Interface:** 
+-  **Retro Pixel Art Style** 
+-  **Frameless & Transparent Window** 
+-  **Real-Time Calendar**
+-  **Draggable Interface** 
 
 ---
 
@@ -37,7 +37,11 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
 ☆ Run the app:
 ``` npm run start ```
 - (also install electron)
-### Project Structure
+---
+
+## 📂 Project Structure
+
+```text
 my-electron-app/
 ├── assests/          # Background images and frames
 ├── fonts/            # Custom fonts (Pixeboy.ttf)
@@ -48,7 +52,7 @@ my-electron-app/
 └── package.json      # Project dependencies and scripts
 
 
-```text
+
  ___ _  _     _  _____   __ _ 
 | __| \| |_ || |/ _ \ \ / /| |
 | _|| .` | || | | (_) \ V / |_|

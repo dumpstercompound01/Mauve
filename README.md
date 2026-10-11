@@ -51,6 +51,9 @@ my-electron-app/
 ├── styles.css        # Custom widget styling
 └── package.json      # Project dependencies and scripts
 
+![App Preview](./assests/preview.png)
+
+
 
 
  ___ _  _     _  _____   __ _ 
